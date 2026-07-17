@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/GarvBansal-2006/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/GarvBansal-2006/LeetCode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/GarvBansal-2006/LeetCode/tree/master/0009-palindrome-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/GarvBansal-2006/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GarvBansal-2006/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
