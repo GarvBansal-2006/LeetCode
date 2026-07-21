@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/GarvBansal-2006/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/GarvBansal-2006/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/GarvBansal-2006/LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/GarvBansal-2006/LeetCode/tree/master/0014-longest-common-prefix) |
 | [1260-shift-2d-grid](https://github.com/GarvBansal-2006/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GarvBansal-2006/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/GarvBansal-2006/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/GarvBansal-2006/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/GarvBansal-2006/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/GarvBansal-2006/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/GarvBansal-2006/LeetCode/tree/master/0014-longest-common-prefix) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/GarvBansal-2006/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Dynamic Programming
 |  |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/GarvBansal-2006/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/GarvBansal-2006/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
