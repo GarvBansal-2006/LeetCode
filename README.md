@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/GarvBansal-2006/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/GarvBansal-2006/LeetCode/tree/master/0013-roman-to-integer) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/GarvBansal-2006/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/GarvBansal-2006/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Linked List
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/GarvBansal-2006/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/GarvBansal-2006/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/GarvBansal-2006/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/GarvBansal-2006/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/GarvBansal-2006/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Dynamic Programming
 |  |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/GarvBansal-2006/LeetCode/tree/master/0014-longest-common-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/GarvBansal-2006/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
