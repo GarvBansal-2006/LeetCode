@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/GarvBansal-2006/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/GarvBansal-2006/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/GarvBansal-2006/LeetCode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/GarvBansal-2006/LeetCode/tree/master/0018-4sum) |
 | [1260-shift-2d-grid](https://github.com/GarvBansal-2006/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GarvBansal-2006/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/GarvBansal-2006/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -33,12 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/GarvBansal-2006/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/GarvBansal-2006/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/GarvBansal-2006/LeetCode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/GarvBansal-2006/LeetCode/tree/master/0018-4sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GarvBansal-2006/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/GarvBansal-2006/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/GarvBansal-2006/LeetCode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/GarvBansal-2006/LeetCode/tree/master/0018-4sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GarvBansal-2006/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
