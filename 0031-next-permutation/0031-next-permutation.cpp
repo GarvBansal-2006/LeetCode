@@ -4,13 +4,13 @@ public:
         int n = nums.size();
         int i = n - 2;
 
-       
+        // first decreasing element from the right
         while (i >= 0 && nums[i] >= nums[i + 1]) {
             i--;
         }
 
         if (i >= 0) {
-    
+            // Find element just larger than nums[i]
             int j = n - 1;
             while (nums[j] <= nums[i]) {
                 j--;
@@ -18,6 +18,7 @@ public:
             swap(nums[i], nums[j]);
         }
 
+        // Reverse the suffix
         reverse(nums.begin() + i + 1, nums.end());
     }
 };
