@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/GarvBansal-2006/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/GarvBansal-2006/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/GarvBansal-2006/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/GarvBansal-2006/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GarvBansal-2006/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/GarvBansal-2006/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GarvBansal-2006/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/GarvBansal-2006/LeetCode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/GarvBansal-2006/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/GarvBansal-2006/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/GarvBansal-2006/LeetCode/tree/master/0040-combination-sum-ii) |
 ## Stack
 |  |
 | ------- |
