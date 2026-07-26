@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/GarvBansal-2006/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/GarvBansal-2006/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/GarvBansal-2006/LeetCode/tree/master/0039-combination-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/GarvBansal-2006/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/GarvBansal-2006/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GarvBansal-2006/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/GarvBansal-2006/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/GarvBansal-2006/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/GarvBansal-2006/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/GarvBansal-2006/LeetCode/tree/master/0029-divide-two-integers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/GarvBansal-2006/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GarvBansal-2006/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/GarvBansal-2006/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/GarvBansal-2006/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/GarvBansal-2006/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/GarvBansal-2006/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/GarvBansal-2006/LeetCode/tree/master/0018-4sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/GarvBansal-2006/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/GarvBansal-2006/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GarvBansal-2006/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
