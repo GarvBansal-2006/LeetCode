@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/GarvBansal-2006/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/GarvBansal-2006/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/GarvBansal-2006/LeetCode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/GarvBansal-2006/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GarvBansal-2006/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/GarvBansal-2006/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GarvBansal-2006/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/GarvBansal-2006/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GarvBansal-2006/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/GarvBansal-2006/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/GarvBansal-2006/LeetCode/tree/master/0042-trapping-rain-water) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GarvBansal-2006/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/GarvBansal-2006/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/GarvBansal-2006/LeetCode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/GarvBansal-2006/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Combinatorics
 |  |
 | ------- |
@@ -169,10 +172,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/GarvBansal-2006/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/GarvBansal-2006/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/GarvBansal-2006/LeetCode/tree/master/0029-divide-two-integers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/GarvBansal-2006/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/GarvBansal-2006/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/GarvBansal-2006/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
