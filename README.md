@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/GarvBansal-2006/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/GarvBansal-2006/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/GarvBansal-2006/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/GarvBansal-2006/LeetCode/tree/master/0054-spiral-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GarvBansal-2006/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/GarvBansal-2006/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GarvBansal-2006/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/GarvBansal-2006/LeetCode/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/GarvBansal-2006/LeetCode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GarvBansal-2006/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/GarvBansal-2006/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/GarvBansal-2006/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/GarvBansal-2006/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/GarvBansal-2006/LeetCode/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/GarvBansal-2006/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Enumeration
 |  |
