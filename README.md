@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/GarvBansal-2006/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/GarvBansal-2006/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/GarvBansal-2006/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/GarvBansal-2006/LeetCode/tree/master/0079-word-search) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GarvBansal-2006/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/GarvBansal-2006/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GarvBansal-2006/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/GarvBansal-2006/LeetCode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/GarvBansal-2006/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/GarvBansal-2006/LeetCode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/GarvBansal-2006/LeetCode/tree/master/0079-word-search) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GarvBansal-2006/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GarvBansal-2006/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/GarvBansal-2006/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/GarvBansal-2006/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/GarvBansal-2006/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/GarvBansal-2006/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/GarvBansal-2006/LeetCode/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/GarvBansal-2006/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Enumeration
 |  |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/GarvBansal-2006/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/GarvBansal-2006/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/GarvBansal-2006/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/GarvBansal-2006/LeetCode/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
@@ -241,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/GarvBansal-2006/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/GarvBansal-2006/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
