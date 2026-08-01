@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/GarvBansal-2006/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/GarvBansal-2006/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/GarvBansal-2006/LeetCode/tree/master/0079-word-search) |
+| [0486-predict-the-winner](https://github.com/GarvBansal-2006/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GarvBansal-2006/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/GarvBansal-2006/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GarvBansal-2006/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/GarvBansal-2006/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/GarvBansal-2006/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/GarvBansal-2006/LeetCode/tree/master/0069-sqrtx) |
+| [0486-predict-the-winner](https://github.com/GarvBansal-2006/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GarvBansal-2006/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GarvBansal-2006/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GarvBansal-2006/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/GarvBansal-2006/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/GarvBansal-2006/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/GarvBansal-2006/LeetCode/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/GarvBansal-2006/LeetCode/tree/master/0486-predict-the-winner) |
 ## Binary Search
 |  |
 | ------- |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/GarvBansal-2006/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/GarvBansal-2006/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/GarvBansal-2006/LeetCode/tree/master/0053-maximum-subarray) |
+| [0486-predict-the-winner](https://github.com/GarvBansal-2006/LeetCode/tree/master/0486-predict-the-winner) |
 ## Combinatorics
 |  |
 | ------- |
@@ -249,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/GarvBansal-2006/LeetCode/tree/master/0079-word-search) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/GarvBansal-2006/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
