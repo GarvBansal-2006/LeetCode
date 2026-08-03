@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/GarvBansal-2006/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/GarvBansal-2006/LeetCode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/GarvBansal-2006/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/GarvBansal-2006/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0486-predict-the-winner](https://github.com/GarvBansal-2006/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GarvBansal-2006/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/GarvBansal-2006/LeetCode/tree/master/0877-stone-game) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/GarvBansal-2006/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/GarvBansal-2006/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/GarvBansal-2006/LeetCode/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/GarvBansal-2006/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0486-predict-the-winner](https://github.com/GarvBansal-2006/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/GarvBansal-2006/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/GarvBansal-2006/LeetCode/tree/master/1406-stone-game-iii) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/GarvBansal-2006/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/GarvBansal-2006/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/GarvBansal-2006/LeetCode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/GarvBansal-2006/LeetCode/tree/master/0085-maximal-rectangle) |
 | [1260-shift-2d-grid](https://github.com/GarvBansal-2006/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Enumeration
 |  |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/GarvBansal-2006/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/GarvBansal-2006/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/GarvBansal-2006/LeetCode/tree/master/0085-maximal-rectangle) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -249,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/GarvBansal-2006/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/GarvBansal-2006/LeetCode/tree/master/0085-maximal-rectangle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
