@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/GarvBansal-2006/LeetCode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/GarvBansal-2006/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/GarvBansal-2006/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/GarvBansal-2006/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0486-predict-the-winner](https://github.com/GarvBansal-2006/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GarvBansal-2006/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/GarvBansal-2006/LeetCode/tree/master/0877-stone-game) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/GarvBansal-2006/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/GarvBansal-2006/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/GarvBansal-2006/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/GarvBansal-2006/LeetCode/tree/master/0088-merge-sorted-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GarvBansal-2006/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/GarvBansal-2006/LeetCode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/GarvBansal-2006/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/GarvBansal-2006/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/GarvBansal-2006/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GarvBansal-2006/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GarvBansal-2006/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GarvBansal-2006/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
