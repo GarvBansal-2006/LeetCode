@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/GarvBansal-2006/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/GarvBansal-2006/LeetCode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/GarvBansal-2006/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0095-unique-binary-search-trees-ii](https://github.com/GarvBansal-2006/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0486-predict-the-winner](https://github.com/GarvBansal-2006/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/GarvBansal-2006/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/GarvBansal-2006/LeetCode/tree/master/1406-stone-game-iii) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/GarvBansal-2006/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/GarvBansal-2006/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/GarvBansal-2006/LeetCode/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/GarvBansal-2006/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Stack
 |  |
 | ------- |
@@ -290,4 +292,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/GarvBansal-2006/LeetCode/tree/master/1406-stone-game-iii) |
+## Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/GarvBansal-2006/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/GarvBansal-2006/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/GarvBansal-2006/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
