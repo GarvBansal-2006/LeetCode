@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/GarvBansal-2006/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/GarvBansal-2006/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/GarvBansal-2006/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/GarvBansal-2006/LeetCode/tree/master/0125-valid-palindrome) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GarvBansal-2006/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GarvBansal-2006/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/GarvBansal-2006/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/GarvBansal-2006/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/GarvBansal-2006/LeetCode/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/GarvBansal-2006/LeetCode/tree/master/0125-valid-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GarvBansal-2006/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GarvBansal-2006/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GarvBansal-2006/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
