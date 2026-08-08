@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/GarvBansal-2006/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/GarvBansal-2006/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/GarvBansal-2006/LeetCode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/GarvBansal-2006/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GarvBansal-2006/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GarvBansal-2006/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GarvBansal-2006/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/GarvBansal-2006/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GarvBansal-2006/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GarvBansal-2006/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/GarvBansal-2006/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0486-predict-the-winner](https://github.com/GarvBansal-2006/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/GarvBansal-2006/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/GarvBansal-2006/LeetCode/tree/master/1406-stone-game-iii) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/GarvBansal-2006/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/GarvBansal-2006/LeetCode/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/GarvBansal-2006/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0131-palindrome-partitioning](https://github.com/GarvBansal-2006/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/GarvBansal-2006/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
 |  |
