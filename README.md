@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/GarvBansal-2006/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/GarvBansal-2006/LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/GarvBansal-2006/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0205-isomorphic-strings](https://github.com/GarvBansal-2006/LeetCode/tree/master/0205-isomorphic-strings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GarvBansal-2006/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GarvBansal-2006/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GarvBansal-2006/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/GarvBansal-2006/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/GarvBansal-2006/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/GarvBansal-2006/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0205-isomorphic-strings](https://github.com/GarvBansal-2006/LeetCode/tree/master/0205-isomorphic-strings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GarvBansal-2006/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GarvBansal-2006/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GarvBansal-2006/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
