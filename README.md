@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GarvBansal-2006/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GarvBansal-2006/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/GarvBansal-2006/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/GarvBansal-2006/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/GarvBansal-2006/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/GarvBansal-2006/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/GarvBansal-2006/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GarvBansal-2006/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/GarvBansal-2006/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/GarvBansal-2006/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/GarvBansal-2006/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/GarvBansal-2006/LeetCode/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
