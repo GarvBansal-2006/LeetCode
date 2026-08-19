@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/GarvBansal-2006/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/GarvBansal-2006/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/GarvBansal-2006/LeetCode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/GarvBansal-2006/LeetCode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/GarvBansal-2006/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GarvBansal-2006/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/GarvBansal-2006/LeetCode/tree/master/0877-stone-game) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/GarvBansal-2006/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/GarvBansal-2006/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/GarvBansal-2006/LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/GarvBansal-2006/LeetCode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/GarvBansal-2006/LeetCode/tree/master/0486-predict-the-winner) |
 ## Binary Search
 |  |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/GarvBansal-2006/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/GarvBansal-2006/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/GarvBansal-2006/LeetCode/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/GarvBansal-2006/LeetCode/tree/master/0231-power-of-two) |
 | [1386-cinema-seat-allocation](https://github.com/GarvBansal-2006/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/GarvBansal-2006/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/GarvBansal-2006/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
