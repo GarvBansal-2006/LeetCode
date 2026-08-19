@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GarvBansal-2006/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GarvBansal-2006/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/GarvBansal-2006/LeetCode/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/GarvBansal-2006/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/GarvBansal-2006/LeetCode/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/GarvBansal-2006/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GarvBansal-2006/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/GarvBansal-2006/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/GarvBansal-2006/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/GarvBansal-2006/LeetCode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/GarvBansal-2006/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/GarvBansal-2006/LeetCode/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/GarvBansal-2006/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GarvBansal-2006/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/GarvBansal-2006/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/GarvBansal-2006/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/GarvBansal-2006/LeetCode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/GarvBansal-2006/LeetCode/tree/master/0189-rotate-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GarvBansal-2006/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GarvBansal-2006/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
