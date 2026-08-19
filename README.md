@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/GarvBansal-2006/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/GarvBansal-2006/LeetCode/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/GarvBansal-2006/LeetCode/tree/master/0190-reverse-bits) |
 ## String
 |  |
 | ------- |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/GarvBansal-2006/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/GarvBansal-2006/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/GarvBansal-2006/LeetCode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/GarvBansal-2006/LeetCode/tree/master/0190-reverse-bits) |
 | [1386-cinema-seat-allocation](https://github.com/GarvBansal-2006/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/GarvBansal-2006/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/GarvBansal-2006/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
